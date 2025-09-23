@@ -58,10 +58,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/darkfighterlloyd">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=darkfighterlloyd&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=darkfighterlloyd)](https://open.spotify.com/user/darkfighterlloyd)
 
 ###
