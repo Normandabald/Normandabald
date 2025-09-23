@@ -1,7 +1,3 @@
-<img align="right" height="150" src="https://media.discordapp.net/attachments/986678839008690176/1277037819344195724/DALLE_2022-11-10_22.23.07_-_A_hyper_realistic_droid_wearing_a_tophat_with_a_bushy_ginger_beard_Volumetric_lighting_Simple_background.png?ex=68d3cd66&is=68d27be6&hm=5c62fc618dfd120448586e8b8e883a5c181bba7800339e942f54f4b82ecc8810&=&format=webp&quality=lossless"  />
-
-###
-
 <h2 align="left">Hi there!👋<br>My name is Lloyd and I'm a DevSecOps Engineer from the UK 🇬🇧</h2>
 
 ###
@@ -62,13 +58,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Normandabald/Normandabald/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Normandabald&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Normandabald&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
