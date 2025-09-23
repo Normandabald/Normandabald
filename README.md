@@ -44,8 +44,7 @@ In my repos you'll find projects and bits and pieces of code I've written to hel
 
 ---
 
-<img src="https://www.fugaming.org/uploads/pslogo1417p.png" height="30" alt="freelancers union logo"/>
-<b align="left">Community Officer</b> at <a href="https://fugaming.org" target="_blank">Freelancers Union</a>
+<img src="https://www.fugaming.org/uploads/pslogo1417p.png" height="30" alt="freelancers union logo"/> <b align="left">Community Officer</b> at <a href="https://fugaming.org" target="_blank">Freelancers Union</a>
 
 > The Serious Community for the Casual Gamer
 
@@ -57,8 +56,7 @@ Check out our custom Discord Bot! https://opengraph.githubassets.com/1a/Freelanc
 
 ---
 
-<img src="https://media.discordapp.net/attachments/697531437091389440/726853569105625168/Queen_LIZAEDBETH.png?ex=68d42c23&is=68d2daa3&hm=e0cddeb5ba64c5cbb9480c1575591837d7d6689879b0088c4b037e018e1b3dbc&=&format=webp&quality=lossless&width=1084&height=1320" height="30" alt="SBFC Logo"/>
-<b align="left">Super Best Friend</b> at The Super Best Friend Club [SBFC]
+<img src="https://media.discordapp.net/attachments/697531437091389440/726853569105625168/Queen_LIZAEDBETH.png?ex=68d42c23&is=68d2daa3&hm=e0cddeb5ba64c5cbb9480c1575591837d7d6689879b0088c4b037e018e1b3dbc&=&format=webp&quality=lossless&width=1084&height=1320" height="30" alt="SBFC Logo"/> <b align="left">Super Best Friend</b> at The Super Best Friend Club [SBFC]
 
 ---
 
