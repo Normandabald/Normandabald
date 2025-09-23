@@ -51,6 +51,7 @@ In my repos you'll find projects and bits and pieces of code I've written to hel
 [![FU](https://img.shields.io/discord/282514718445273089?logo=discord)](https://discord.gg/XmW7q7SH6Q)
 
 Check out our custom Discord Bot and WiKi!
+
 <a href="https://github.com/Freelancers-Union/FUBot"><img src="https://opengraph.githubassets.com/1a/Freelancers-Union/FUBot" height="150"/></a>
 
 - https://fugaming.org/
