@@ -1,6 +1,9 @@
 <h2 align="left">Hi there!👋<br>My name is Lloyd and I'm a DevSecOps Engineer from the UK 🇬🇧</h2>
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Normandabald.Normandabald&"  />
+  <span style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Normandabald.Normandabald&" height="30" style="vertical-align: middle;" />
+    <a href="https://buymeacoffee.com/normandabald"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" style="vertical-align: middle;" /></a>
+  </span>
 </div>
 
 ###
