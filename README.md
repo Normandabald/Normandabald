@@ -1,27 +1,7 @@
 <h2 align="left">Hi there!👋<br>My name is Lloyd and I'm a DevSecOps Engineer from the UK 🇬🇧</h2>
-I love communities and helping people work together to solve problems and have fun!
-
-In my repos you'll find projects and bits and pieces of code I've written to help solve problems close to me and the groups of people I work with.
-
-###
-
-<img src="https://www.fugaming.org/uploads/pslogo1417p.png" height="30" alt="freelancers union logo"/>
-<b align="left">Community Officer</b> at <a href="https://fugaming.org" target="_blank">Freelancers Union</a>
-See https://opengraph.githubassets.com/1a/Freelancers-Union
-
-###
-
-<img src="https://media.discordapp.net/attachments/697531437091389440/726853569105625168/Queen_LIZAEDBETH.png?ex=68d42c23&is=68d2daa3&hm=e0cddeb5ba64c5cbb9480c1575591837d7d6689879b0088c4b037e018e1b3dbc&=&format=webp&quality=lossless&width=1084&height=1320" height="30" alt="freelancers union logo"/>
-<b align="left">Super Best Friend</b> at The Super Best Friend Club [SBFC]
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Normandabald.Normandabald&"  />
 </div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="6" />
@@ -56,6 +36,31 @@ See https://opengraph.githubassets.com/1a/Freelancers-Union
   <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
   <img width="6" />
 </div>
+I love communities and helping people work together to solve problems and have fun!
+
+In my repos you'll find projects and bits and pieces of code I've written to help solve problems close to me and the groups of people I work with.
+
+###
+
+---
+
+<img src="https://www.fugaming.org/uploads/pslogo1417p.png" height="30" alt="freelancers union logo"/>
+<b align="left">Community Officer</b> at <a href="https://fugaming.org" target="_blank">Freelancers Union</a>
+
+> The Serious Community for the Casual Gamer
+
+[![FU](https://img.shields.io/discord/282514718445273089?logo=discord)](https://discord.gg/XmW7q7SH6Q)
+
+Check out our custom Discord Bot! https://opengraph.githubassets.com/1a/Freelancers-Union/FUBot
+
+###
+
+---
+
+<img src="https://media.discordapp.net/attachments/697531437091389440/726853569105625168/Queen_LIZAEDBETH.png?ex=68d42c23&is=68d2daa3&hm=e0cddeb5ba64c5cbb9480c1575591837d7d6689879b0088c4b037e018e1b3dbc&=&format=webp&quality=lossless&width=1084&height=1320" height="30" alt="SBFC Logo"/>
+<b align="left">Super Best Friend</b> at The Super Best Friend Club [SBFC]
+
+---
 
 ###
 
@@ -66,9 +71,5 @@ See https://opengraph.githubassets.com/1a/Freelancers-Union
 ###
 
 <img src="https://raw.githubusercontent.com/Normandabald/Normandabald/output/snake.svg" alt="Snake animation" />
-
-###
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=darkfighterlloyd)](https://open.spotify.com/user/darkfighterlloyd)
 
 ###
