@@ -82,12 +82,11 @@ Closer to Christmas 2025 we'll opensource our Christmas Cheer Dispenser project!
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Normandabald&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Top Languages](./profile/top-langs.svg)
 
 ###
 
 <img src="https://raw.githubusercontent.com/Normandabald/Normandabald/output/snake.svg" alt="Snake animation" />
 
 ###
+
